@@ -745,6 +745,9 @@ footer img{
     margin-top: 20px;
 }
 
+.experiencia{
+    height:800px;
+}
 .experiencia .contenido-seccion .info{
     display: block;
 }
@@ -770,8 +773,7 @@ footer img{
     width: 100%;
 }
 
-.habilidades {
-    height:800px;}
+
 
 
 
